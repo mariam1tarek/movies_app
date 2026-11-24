@@ -1,0 +1,27 @@
+
+
+flutter_native_splash:
+
+  color: "#121312"
+  color_dark: "#121312"
+
+  image: assets/images/logo.png
+  image_dark: assets/images/logo.png
+
+  branding: assets/images/branding.png
+  branding_dark: assets/images/branding.png
+  branding_mode: bottom
+  branding_bottom_padding: 40
+
+  android_gravity: center
+  ios_content_mode: center
+
+  android_12:
+    color: "#121312"
+    color_dark: "#121312"
+    image: assets/images/logo.png
+    image_dark: assets/images/logo.png
+    branding: assets/images/branding.png
+    branding_dark: assets/images/branding.png
+
+  fullscreen: true
